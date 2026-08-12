@@ -2,13 +2,13 @@
 
 
 
-\*\*Author:\*\* Pramod Prasad  
+\*\*Author:\*\* Pramod Prasad
 
-\*\*Institution:\*\* Institute of Data (AUT Accredited)  
+\*\*Institution:\*\* Institute of Data (AUT Accredited)
 
-\*\*Program:\*\* Professional Certificate in Data Science \& Artificial Intelligence  
+\*\*Program:\*\* Professional Certificate in Data Science \& Artificial Intelligence
 
-\*\*Project Type:\*\* Final Capstone Project  
+\*\*Project Type:\*\* Final Capstone Project
 
 
 
@@ -36,19 +36,19 @@ The goal is to identify distinct customer groups that can be targeted with diffe
 
 
 
-\- Data Cleaning \& Preprocessing  
+\- Data Cleaning \& Preprocessing
 
-\- Exploratory Data Analysis (EDA)  
+\- Exploratory Data Analysis (EDA)
 
-\- Feature Engineering (Recency, Frequency, Monetary)  
+\- Feature Engineering (Recency, Frequency, Monetary)
 
-\- K-Means Clustering  
+\- K-Means Clustering
 
-\- Elbow Method to determine optimal K  
+\- Elbow Method to determine optimal K
 
-\- PCA for Dimensionality Reduction  
+\- PCA for Dimensionality Reduction
 
-\- Cluster Visualization (Seaborn, Matplotlib)  
+\- Cluster Visualization (Seaborn, Matplotlib)
 
 
 
@@ -116,9 +116,9 @@ Run this notebook instantly in your browser:
 
 
 
-1\. Clone this repository  
+1\. Clone this repository
 
-2\. Install required libraries:  
+2\. Install required libraries:
 
 &#x20;  ```
 
@@ -126,7 +126,7 @@ Run this notebook instantly in your browser:
 
 &#x20;  ```
 
-3\. Open the notebook in Jupyter or Google Colab  
+3\. Open the notebook in Jupyter or Google Colab
 
 4\. Run all cells
 
@@ -152,9 +152,9 @@ Run this notebook instantly in your browser:
 
 
 
-\*\*Pramod Prasad\*\*  
+\*\*Pramod Prasad\*\*
 
-📧 pramod.prasad2101@gmail.com  
+📧 pramod.prasad2101@gmail.com
 
 🔗 \[LinkedIn](https://www.linkedin.com/in/pramod-prasad-7a6662202/)
 
