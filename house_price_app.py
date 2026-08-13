@@ -79,5 +79,7 @@ def update_prediction(total_sqft, bath, bhk, location, n_clicks):
             return f"Error in prediction: {str(e)}"
     return "Enter values and press predict"
 
+server = app.server
+
 if __name__ == '__main__':
     app.run(debug=True)
